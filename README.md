@@ -14,8 +14,8 @@ AI agents are starting to pay for API access with USDC over the x402 protocol. E
 Non-custodial by design: the kit never holds private keys or touches funds. It only verifies that a payment happened, then serves the resource.
 
 **Buy** — $79 one-time. Yours forever. No subscriptions, no lock-in.
-[Get the x402 Paid API Starter Kit](https://buy.polar.sh/polar_cl_IjuTkCuUNqdt3sdK0ZcyethPMsAkEe1WOOq4c1oZyZw)
-Also available: [x402 + MCP Monetization Kit bundle ($119)](https://buy.polar.sh/polar_cl_1bjr7pzCRFuSUUk3ZZ2UgzkLzcdGlPtb1b5AA3Gb24s)
+[Get the x402 Paid API Starter Kit](https://payloadtools.gumroad.com/l/x402-paid-api-starter-kit)
+Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools.gumroad.com/l/x402-mcp-bundle)
 
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
 
