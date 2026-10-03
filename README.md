@@ -1,5 +1,5 @@
 # x402 Paid API Starter Kit
-*Charge AI agents per API call. Multi-asset (USDC default). A commercial product by Payload (v1.0.2).*
+*Charge AI agents per API call. Multi-asset (USDC default). A commercial product by Payload (v1.0.3).*
 > **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
 
 
@@ -10,7 +10,8 @@ AI agents are starting to pay for API access over the x402 protocol. Every free 
 - `/.well-known/x402` manifest generator for agent discovery (and x402 bazaar listings)
 - Two verifiers: HMAC dev verifier for local testing, facilitator verifier for production (works with any x402 facilitator)
 - Append-only usage ledger (JSONL) of every paid call
-- Working example server + 45 automated tests, all passing (including 33 multi-asset verification tests)
+- Facilitator-aware: declare your facilitator's supported assets/networks; misconfigured routes fail at startup instead of at payment time
+- Working example server + 61 automated tests, all passing (multi-asset and facilitator-awareness verification)
 - README with a 5-minute quick start and a production checklist
 
 Non-custodial by design: the kit never holds private keys or touches funds. It only verifies that a payment happened, then serves the resource.
