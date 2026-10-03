@@ -1,5 +1,5 @@
 # x402 Paid API Starter Kit
-*Charge AI agents per API call in USDC. A commercial product by Payload (v1.0.0).*
+*Charge AI agents per API call in USDC. A commercial product by Payload (v1.0.1).*
 > **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
 
 
