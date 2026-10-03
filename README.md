@@ -1,5 +1,7 @@
 # x402 Paid API Starter Kit
-*Charge AI agents per API call in USDC. A commercial product by Payload.*
+*Charge AI agents per API call in USDC. A commercial product by Payload (v1.0.0).*
+> **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
+
 
 AI agents are starting to pay for API access with USDC over the x402 protocol. Every free "starter" out there is vendor lead-gen tied to one facilitator. This is the neutral, complete, paid kit: drop it into any Express API and start charging per call in an afternoon.
 
@@ -22,3 +24,10 @@ Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools
 **Support** — kylers.partners@gmail.com
 
 Sold by Payload. Small software that earns its keep.
+
+---
+
+**Payload** — small, sharp tools for developers.
+Developer portal: https://payloadhq.github.io/ ·
+All products: https://payloadtools.gumroad.com/ ·
+Contact: kylers.partners@gmail.com
