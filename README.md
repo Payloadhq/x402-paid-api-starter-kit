@@ -1,4 +1,7 @@
 # x402 Paid API Starter Kit
+
+[![Launched on Fazier](https://fazier.com/api/v1/public/badges/launch_badges.svg?badge_type=launched&theme=light)](https://fazier.com)
+
 *Charge AI agents per API call. Multi-asset (USDC default). A commercial product by Payload (v1.0.3).*
 > **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
 
