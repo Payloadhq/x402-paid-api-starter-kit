@@ -18,6 +18,10 @@ Non-custodial by design: the kit never holds private keys or touches funds. It o
 
 **Buy** — $79 one-time. Yours forever. No subscriptions, no lock-in.
 [Get the x402 Paid API Starter Kit](https://payloadtools.gumroad.com/l/x402-paid-api-starter-kit)
+
+Also on [Whop](https://whop.com/payload-f126/products/x402-paid-api-starter-kit-charge-ai-agents-per-api-call-in-usdc/)
+
+**What happens after you get paid?** [RevRule by Payload](https://payloadtools.gumroad.com/l/revrule-by-payload) programs who earns what when your API makes money. x402 moves the money. RevRule determines the economics.
 Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools.gumroad.com/l/x402-mcp-bundle)
 
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
