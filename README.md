@@ -66,3 +66,9 @@ Also available: [x402 + MCP Monetization Kit bundle ($119)](https://payloadtools
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
+
+---
+
+**More from Payload** · [payloadhq.github.io](https://payloadhq.github.io/) · [all Payload repos](https://github.com/Payloadhq)
+
+Related: [x402-paid-api-template](https://github.com/Payloadhq/x402-paid-api-template) · [flow-agentic-demo](https://github.com/Payloadhq/flow-agentic-demo) · [callx402](https://github.com/Payloadhq/callx402)
