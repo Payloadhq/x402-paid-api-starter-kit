@@ -4,7 +4,7 @@
 
 # VEYLINE DEVELOPER PRIMER
 
-*Charge AI agents per API call. The entry product from Payload (by Payload).*
+*Charge AI agents per API call. The entry product from Payload.*
 
 [![Launched on Fazier](https://fazier.com/api/v1/public/badges/launch_badges.svg?badge_type=launched&theme=light)](https://fazier.com)
 
