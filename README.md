@@ -1,6 +1,6 @@
 > **Payload** — Developer infrastructure for x402, agent payments, and programmable revenue.
 > PAYLOAD → VEYLINE (flagship) → CALLX402 (action layer) → REVRULE (separate) → developer products → free utilities.
-> This repo: **Veyline Developer Primer by Payload — formerly the x402 Paid API Starter Kit.**
+> This repo: **Veyline Developer Primer by Payload — formerly the Veyline Developer Primer.**
 
 # VEYLINE DEVELOPER PRIMER
 
