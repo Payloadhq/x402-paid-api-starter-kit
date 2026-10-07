@@ -23,7 +23,7 @@ The paid package ($79, one-time) includes:
 - **Two verifiers** — HMAC dev verifier for local testing, facilitator verifier for production (works with any x402 facilitator)
 - **Append-only usage ledger (JSONL)** — every paid call, recorded
 - **Facilitator-aware startup checks** — declare your facilitator's supported assets and networks; misconfigured routes fail at startup instead of at payment time
-- **Working example server + 61 automated tests**, all passing (multi-asset and facilitator-awareness verification)
+- **Working example server + 65 automated tests**, all passing (core flow, multi-asset, and facilitator-awareness verification)
 - **README with a 5-minute quick start and a production checklist**
 
 Non-custodial by design: the kit never holds private keys or touches funds. It only verifies that a payment happened, then serves the resource.
