@@ -12,7 +12,11 @@
 
 AI agents are starting to pay for API access over the x402 protocol. Every free "starter" out there is vendor lead-gen tied to one facilitator. This is the neutral, complete, paid kit: drop it into any Express API and start charging per call in an afternoon.
 
-The Primer is the on-ramp. When you outgrow a starter kit and need production-grade x402 payments, the next step is **Veyline by Payload** — the production layer for x402 + MCP, built for autonomous economic control.
+**Why it exists:** you should not need to build payment infrastructure or marry one facilitator to charge per API call. The Primer is the neutral on-ramp: paid-route middleware, a `/.well-known/x402` manifest generator, two verifiers, an append-only usage ledger, and 65 passing tests. When you outgrow the on-ramp and need production-grade x402 payments, the next step is **Veyline by Payload**, the production layer for x402 + MCP.
+
+**Try the mechanic free first:** the [x402 Paid API Template](https://github.com/Payloadhq/x402-paid-api-template) is the open-source MIT template: a working Express server with paid x402 routes you can deploy in minutes.
+
+**Buy: [$79 one-time on Gumroad](https://payloadtools.gumroad.com/l/x402-paid-api-starter-kit)** (also on [Whop](https://whop.com/payload-f126/products/x402-paid-api-starter-kit-charge-ai-agents-per-api-call-in-usdc/)). Yours forever, no subscriptions, no lock-in.
 
 ## Who it's for
 
